@@ -37,3 +37,11 @@ This project aims to design and implement an adaptive Line Echo Canceller (LEC) 
 
 - **MATLAB:** Recommended due to their extensive libraries and tools for DSP.
 
+
+## Contributors
+
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
+- [Yazeed Hamdan](https://github.com/YazeedHamdan1201133)
+- [Mahmoud Hamdan](https://github.com/MahmoudHamdan8)
+
+
